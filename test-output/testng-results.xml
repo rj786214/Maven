@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-17T13:38:15 EDT" name="Suite" finished-at="2023-03-17T13:38:27 EDT" duration-ms="12063">
+    <groups>
+    </groups>
+    <test started-at="2023-03-17T13:38:15 EDT" name="Test1" finished-at="2023-03-17T13:38:26 EDT" duration-ms="11021">
+      <class name="maven.Day2">
+        <test-method signature="invokeBrowser1()[pri:0, instance:maven.Day2@a2431d0]" started-at="2023-03-17T13:38:15 EDT" name="invokeBrowser1" finished-at="2023-03-17T13:38:26 EDT" duration-ms="10981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser1 -->
+      </class> <!-- maven.Day2 -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-03-17T13:38:15 EDT" name="Test" finished-at="2023-03-17T13:38:27 EDT" duration-ms="12063">
+      <class name="maven.Day1">
+        <test-method signature="invokeBrowser()[pri:0, instance:maven.Day1@3541cb24]" started-at="2023-03-17T13:38:15 EDT" name="invokeBrowser" finished-at="2023-03-17T13:38:27 EDT" duration-ms="12029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+      </class> <!-- maven.Day1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
